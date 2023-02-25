@@ -1,2 +1,3 @@
 # Estudos_Python_OO
-Repositório para meus estudos de Python orientado a objetos.
+## Formação Python da Alura
+### Espero que nessa formação adiquira conhecimentos para que possa desenvolver projetos mais complexos utilizando Python.
